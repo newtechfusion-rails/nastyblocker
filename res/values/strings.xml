@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_title">Blocking enabled</string>
+    <string name="notification_text">Select to configure or disable</string>
+    <string name="app_name">Nasty Blocker</string>
+    <string name="enabled">Enable</string>
+	<string name="delay">Delay Before Answer</string>
+	<string name="no_second_call">Don\'t Answer if In Call</string>
+	<string name="blocking_enbaled">Blocking enabled</string>
+	<string name="block">Block</string>
+	<string name="unblock">Unblock</string>
+	<string name="contact">Contact</string>
+
+</resources>
+
